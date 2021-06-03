@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Majesties declaration to all his loving subjects, June the second, 1680</title>
+            <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A32226</idno><idno type="EEBO-CITATION">15579534</idno>
+  <idno type="VID">103898</idno>
+  <idno type="EEBO-PROQUEST">2240935350</idno>
+  
+            <idno type="STC">Wing C2994</idno>
+            <idno type="STC">ESTC R35929</idno>
+            <idno type="OCLC">15579534</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A32226)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103898)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1184:63)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Majesties declaration to all his loving subjects, June the second, 1680</title>
+                  <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+                  <author>Charles II, King of England, 1630-1685.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Bill, Thomas Newcomb, and Henry Hills ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Monmouth, James Scott, --  Duke of, 1649-1685.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles II, 1660-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:103898:1"/>
+            <p>His Majesties DECLARATION To all His Loving Subjects, <hi>June</hi> the Second, 1680.</p>
+            <figure>
+               <head>C R</head>
+               <q xml:lang="frm">DIEV ET MON DROIT</q>
+               <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+               <figDesc>royal blazon surmounted by a crown and flanked by the English lion and Tudor rose on one side and the Scottish unicorn and thistle on the other</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>John Bill, Thomas Newcomb,</hi> and <hi>Henry Hills,</hi> Printers to the Kings most Excellent Majesty, 1680.</p>
+         </div>
+      </front>
+      <body>
+         <div type="royal_declaration">
+            <pb facs="tcp:103898:2"/>
+            <pb n="3" facs="tcp:103898:2"/>
+            <opener>
+               <signed>Charles R.</signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>E cannot but take notice of the great Industry and Malice wherewith some Men of a Seditious and Restless Spirit, do spread abroad a most false and scandalous Report of a Marriage or Contract of Mar<g ref="char:EOLhyphen"/>riage supposed to be had and made between Us and one M<seg rend="sup">rs</seg>
+               <hi>Walters,</hi> alias <hi>Barlow,</hi> now deceased, Mother of the present Duke of <hi>Monmouth,</hi> aiming thereby to fill the minds of Our Loving Subjects with Doubts and Fears, and if possible, to divide them into Par<g ref="char:EOLhyphen"/>ties and Factions, and as much as in them lies, to bring into Question the clear undoubted Right of Our True and Lawful Heirs and Successors to the Crown. We have therefore thought Our Self obliged to let Our Loving Subjects see what steps We (out of Our Care of them and their Posterity) have already made, in order to obviate the ill Conse<g ref="char:EOLhyphen"/>quences that so dangerous and malicious a Report may have in future times upon the Peace of Our Kingdoms.</p>
+            <p>In <hi>January</hi> last was Twelvemonth, We made a Declaration written with Our own Hand in these Words following;</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="royal_declaration">
+                        <p>THere being a false and malicious Report industriously spread abroad by some, who are neither Friends to
+<pb n="4" facs="tcp:103898:3"/>Me or the Duke of <hi>Monmouth,</hi> as if I should have been either Contracted or Married to his Mother; and though I am most confident that this idle Story cannot have any effect in this Age, yet I thought it My Duty in relation to the true Succession of this Crown, and that future Ages may not have any pretence to give Disturbance upon that score, or any other of this nature, to Declare, as I do here Declare in the presence of Almighty God, That I never was Married, nor gave any Contract to any Woman whatsoever, but to My Wife Queen <hi>Catherine,</hi> to whom I am now Married.</p>
+                        <closer>
+                           <dateline>In witness whereof I set my Hand at <hi>Whitehall</hi>
+                              <date>the Sixth of <hi>Ja<g ref="char:EOLhyphen"/>nuary</hi> 1678/9.</date>
+                           </dateline>
+                           <signed>Charles R.</signed>
+                        </closer>
+                        <postscript>
+                           <p>And this Declaration I make in the presence of
+<list>
+                                 <item>W. Cant.</item>
+                                 <item>H. Finch. C.</item>
+                                 <item>H. Coventry.</item>
+                                 <item>J. Williamson.</item>
+                              </list>
+                           </p>
+                        </postscript>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <pb n="5" facs="tcp:103898:3"/>
+            <p> TO strengthen which Declaration, We did in <hi>March</hi> following, (which was <hi>March</hi> last was Twelve-month) make a more publick Declarati<g ref="char:EOLhyphen"/>on in Our Privy Council, written like<g ref="char:EOLhyphen"/>wise with Our own Hand; and having caused a true Transcript thereof to be En<g ref="char:EOLhyphen"/>tred in Our Council Books, We Signed it, and caused the Lords of Our Privy Council then attending us in Council, to subscribe the same likewise, and We Ordered the Original to be kept in the Council Chest, where it now remains. The Entry whereof in the Council Book, is in these words following;</p>
+            <q>
+               <pb n="6" facs="tcp:103898:4"/>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="Privy_Council_record">
+                        <opener>
+                           <dateline>At the Court at <hi>WHITEHALL,</hi>
+                              <date>
+                                 <hi>March</hi> the 3d. 1678/9.</date>
+                           </dateline>
+                        </opener>
+                        <head>Present
+<list>
+                              <item>The Kings most Excellent Majesty</item>
+                              <item>Lord Chancellor</item>
+                              <item>Lord Treasurer</item>
+                              <item>Duke of <hi>Lauderdale</hi>
+                              </item>
+                              <item>Marquess of <hi>Worcester</hi>
+                              </item>
+                              <item>Earl of <hi>Ossory</hi>
+                              </item>
+                              <item>Lord <hi>Chamberlain</hi>
+                              </item>
+                              <item>Earl of <hi>Sunderland</hi>
+                              </item>
+                              <item>Earl of <hi>Clarendon</hi>
+                              </item>
+                              <item>Earl of <hi>Essex</hi>
+                              </item>
+                              <item>Earl of <hi>Bathe</hi>
+                              </item>
+                              <item>Earl of <hi>Craven</hi>
+                              </item>
+                              <item>Earl of <hi>Aylesbury</hi>
+                              </item>
+                              <item>Lord Bishop of <hi>London</hi>
+                              </item>
+                              <item>Lord Bishop of <hi>Durham</hi>
+                              </item>
+                              <item>Lord <hi>Maynard</hi>
+                              </item>
+                              <item>Mr. Vice-Chamberlain.</item>
+                           </list>
+                        </head>
+                        <p>HIs Majesty was this day pleased to Command, That the Declaration hereafter following be entred in the Council Book, It being all Writ<g ref="char:EOLhyphen"/>ten and Signed by His Majesties own Hand, in a Pa<g ref="char:EOLhyphen"/>per which His Majesty this day delivered at the Boord, to be kept in the Council Chest. <hi>Viz.</hi>
+                        </p>
+                        <q>
+                           <floatingText xml:lang="eng">
+                              <body>
+                                 <div type="document">
+                                    <p>FOr the avoiding of any Dispute which may happen in time to come, concerning the Succession of the Crown, I do here Declare in the presence of Almighty God, That I never gave nor made any Contract of Marriage, nor was Married to any Woman whatso<g ref="char:EOLhyphen"/>ever, but to My present Wife Queen <hi>Catherine</hi> now living.</p>
+                                    <closer>
+                                       <dateline>Whitehall, <date>the Third day of <hi>March</hi> 1678/9.</date>
+                                       </dateline>
+                                       <signed>Charles R.</signed>
+                                    </closer>
+                                 </div>
+                              </body>
+                           </floatingText>
+                        </q>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <pb n="7" facs="tcp:103898:4"/>
+            <p> His Majesty Commanded us who were present at the Making and Signing this Declaration, to At<g ref="char:EOLhyphen"/>test the same,
+<list>
+                  <item>Finch C.</item>
+                  <item>Danby</item>
+                  <item>Lauderdale</item>
+                  <item>Worcester</item>
+                  <item>Ossory</item>
+                  <item>Arlington</item>
+                  <item>Sunderland</item>
+                  <item>Clarendon</item>
+                  <item>Essex</item>
+                  <item>Bathe</item>
+                  <item>Craven</item>
+                  <item>Aylesbury</item>
+                  <item>H. London</item>
+                  <item>N. Durham</item>
+                  <item>W. Maynard</item>
+                  <item>G. Carteret.</item>
+               </list>
+            </p>
+            <p>IN April last We found the same Rumour not onely revived again, but also improved with New Ad<g ref="char:EOLhyphen"/>ditions, To wit, It was given out, That there was a Writing yet extant, and lately produced before several Persons, whereby the said Marriage, or a Contract at least (for the Report was various) would appear, and that there are several Lords and others yet living, who were pretended to have been present at the said Marriage. We knew full well that it was impossible that any thing of this should be true, (there being nothing more groundless and false then that there was any such Marriage or Contract between Us and the said M<seg rend="sup">rs</seg>
+               <hi>Walters,</hi> alias <hi>Barlow</hi>) yet We proceeded to call before Us, and caused to be Inter<g ref="char:EOLhyphen"/>rogated in Council, such Lords and other Persons, as the common Rumour did surmise to have been present at the pretended Marriage, or to know some<g ref="char:EOLhyphen"/>thing of it, or of the said Writing. And though it appeared to all Our Council, upon the hearing of the said Lords and other Persons severally Interroga<g ref="char:EOLhyphen"/>ted, and upon their denying to have been present at any such Marriage, or to know any thing of it, or
+<pb n="8" facs="tcp:103898:5"/>of any such Writing, That the raising and spreading of such a Report, so incoherent in the several parts of it, was the effect of deep Malice in some few, and of loose and idle Discourse in others; Yet We think it requisite at this time, to make Our Declarati<g ref="char:EOLhyphen"/>ons above recited more publick; and to Order the same (as We do hereby with the Advice of Our Pri<g ref="char:EOLhyphen"/>vy Council) to be forthwith Printed and Published. And We do again upon this Occasion call Almighty God to Witness, and Declare upon the Faith of a Christian, and the Word of a King, that there was ne<g ref="char:EOLhyphen"/>ver any Marriage, or Contract of Marriage had or made between Us and the said M<seg rend="sup">rs</seg>
+               <hi>Walters,</hi> alias <hi>Barlow,</hi> the Duke of <hi>Monmouths</hi> Mother, nor between Us and any Woman whatsoever, Our Royal Consort Queen <hi>Catherine,</hi> that now is, only excepted.</p>
+            <p>And We do hereby strictly require and command all Our Subjects whatsoever, that they presume not to utter or publish any thing contrary to the tenor of this Our Declaration, at their Peril, and upon pain of being proceeded against according to the utmost Severity and Rigor of the Law.</p>
+            <closer>
+               <dateline>Given at Our Court at <hi>Whitehall,</hi>
+                  <date>the second day of <hi>June,</hi> in the Two and thirteith Year of Our Reign.</date>
+               </dateline>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
